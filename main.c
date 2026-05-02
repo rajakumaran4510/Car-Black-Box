@@ -1,5 +1,5 @@
 #include <xc.h>
-#include "newmain.h"
+#include "main.h"
 
 pos_t state;
 
